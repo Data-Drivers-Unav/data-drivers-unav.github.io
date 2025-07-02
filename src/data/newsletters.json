@@ -1,0 +1,46 @@
+[
+  {
+    "titulo": "Newsletter Enero 2025",
+    "fecha": "2025-01-24",
+    "autor": "Miguel",
+    "genero": "hombre",
+    "portada": "IMG_3169.JPG",
+    "foto": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80",
+    "resumen": "Resumen de las noticias tecnológicas más relevantes de este inicio de año.",
+    "noticias": [
+      {
+        "texto": "Meta pone fin a su programa de verificación en EE.UU.",
+        "enlace": "https://nypost.com/video/meta-says-its-ending-fact-checking-program-in-the-us-replacing-it-with-a-community-notes/"
+      },
+      {
+        "texto": "OpenAI prepara el lanzamiento de su herramienta avanzada Agent.",
+        "enlace": "https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/"
+      },
+      {
+        "texto": "MrBeast estudia una oferta para comprar TikTok en EE.UU.",
+        "enlace": "https://www.theguardian.com/technology/2025/jan/22/youtube-mrbeast-bid-buy-tiktok-us-donald-trump-elon-musk"
+      },
+      {
+        "texto": "Apple comenzará a usar chips para iPhone fabricados en Estados Unidos.",
+        "enlace": "https://bgr.com/business/apple-is-about-to-start-using-its-first-made-in-usa-iphone-chips/"
+      },
+      {
+        "texto": "Trump anuncia Stargate: inversión histórica en inteligencia artificial para competir con China.",
+        "enlace": "https://www.libertaddigital.com/internacional/estados-unidos/2025-01-22/trump-lanza-stargate-una-inversion-historica-en-inteligencia-artificial-para-competir-con-china-7210202/?utm_campaign=url_rewrite&utm_medium=Social&utm_source=Twitter"
+      },
+      {
+        "texto": "Musk y Altman protagonizan un enfrentamiento por el plan de IA Stargate.",
+        "enlace": "https://www.libertaddigital.com/ciencia-tecnologia/tecnologia/2025-01-23/el-choque-entre-musk-y-altman-por-el-plan-de-ia-stargate-que-mentiroso-7210715/"
+      }
+    ]
+  },
+  {
+    "titulo": "Recap Data Drivers 2024-2025",
+    "fecha": "2025-06-01",
+    "autor": "Equipo Data Drivers",
+    "portada": "wrapped2025.png",
+    "resumen": "¡Así fue nuestro año! Más de 50 miembros, +20 sesiones, colaboraciones, workshops y mucho más.",
+    "noticias": [],
+    "pdf": "wrapped2025.pdf"
+  }
+] 
