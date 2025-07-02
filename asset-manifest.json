@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.0161a13a.css",
-    "main.js": "/static/js/main.87a4bbd1.js",
+    "main.js": "/static/js/main.7e6e034a.js",
     "static/js/488.eb024433.chunk.js": "/static/js/488.eb024433.chunk.js",
     "static/media/IMG_7641.JPG": "/static/media/IMG_7641.6de79e4e5e646ac31e25.JPG",
     "static/media/IMG_7628.JPG": "/static/media/IMG_7628.cea78fc3d9a3f1b90e54.JPG",
     "static/media/event_isla_sicilia.jpg": "/static/media/event_isla_sicilia.183da56eebc722b7f2b8.jpg",
     "static/media/IMG_7623(1).JPG": "/static/media/IMG_7623(1).a0e15a1c0048a87ee56c.JPG",
     "static/media/IMG_7692(1).JPG": "/static/media/IMG_7692(1).707eb7300170ff956f6d.JPG",
-    "static/media/wrapped2025.pdf": "/static/media/wrapped2025.28c656ead9cbff567111.pdf",
     "static/media/vaquero.png": "/static/media/vaquero.15101a5667b8b59fb858.png",
     "static/media/Copy of IMG_0232.jpg": "/static/media/Copy of IMG_0232.c62fffac982aececfcb8.jpg",
     "static/media/merch2.png": "/static/media/merch2.426c5a37f8e151aac5ca.png",
@@ -23,7 +22,7 @@
     "static/media/IMG_3060(2).JPG": "/static/media/IMG_3060(2).39e57c067876d2c3006c.JPG",
     "static/media/IMG_3169.JPG": "/static/media/IMG_3169.691357098409ae3549fb.JPG",
     "static/media/logo.png": "/static/media/logo.05a9a0ae719130cd2ac7.png",
-    "static/media/wrapped2025.png": "/static/media/wrapped2025.cd26d9ed570c46693e18.png",
+    "static/media/wrapped2025.png": "/static/media/wrapped2025.ba87169afbf8c7ba59c9.png",
     "static/media/DD.png": "/static/media/DD.96fe60438eb70cff04a5.png",
     "static/media/img2.jpg": "/static/media/img2.3082350246effb14e3dc.jpg",
     "static/media/img1.jpg": "/static/media/img1.ac2b180f6519928972a9.jpg",
@@ -34,11 +33,11 @@
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
     "main.0161a13a.css.map": "/static/css/main.0161a13a.css.map",
-    "main.87a4bbd1.js.map": "/static/js/main.87a4bbd1.js.map",
+    "main.7e6e034a.js.map": "/static/js/main.7e6e034a.js.map",
     "488.eb024433.chunk.js.map": "/static/js/488.eb024433.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0161a13a.css",
-    "static/js/main.87a4bbd1.js"
+    "static/js/main.7e6e034a.js"
   ]
 }
