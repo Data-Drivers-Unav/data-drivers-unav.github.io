@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f7d308a5.css",
-    "main.js": "/static/js/main.cd26aa1b.js",
+    "main.css": "/static/css/main.63892cb9.css",
+    "main.js": "/static/js/main.07dbfd78.js",
     "static/js/488.eb024433.chunk.js": "/static/js/488.eb024433.chunk.js",
     "static/media/IMG_7641.JPG": "/static/media/IMG_7641.6de79e4e5e646ac31e25.JPG",
     "static/media/IMG_7628.JPG": "/static/media/IMG_7628.cea78fc3d9a3f1b90e54.JPG",
@@ -28,16 +28,17 @@
     "static/media/img1.jpg": "/static/media/img1.ac2b180f6519928972a9.jpg",
     "static/media/event_ibm.jpg": "/static/media/event_ibm.ee4e9f44305d6d797320.jpg",
     "static/media/ibm.png": "/static/media/ibm.c6c010fd98b9537d031d.png",
+    "static/media/logo.jpg": "/static/media/logo.3d3713995c632a9d2a0a.jpg",
     "static/media/unav.png": "/static/media/unav.3fcf060dfb6a142e641b.png",
     "static/media/datacamp.png": "/static/media/datacamp.0e01122e40bf32ed214b.png",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
-    "main.f7d308a5.css.map": "/static/css/main.f7d308a5.css.map",
-    "main.cd26aa1b.js.map": "/static/js/main.cd26aa1b.js.map",
+    "main.63892cb9.css.map": "/static/css/main.63892cb9.css.map",
+    "main.07dbfd78.js.map": "/static/js/main.07dbfd78.js.map",
     "488.eb024433.chunk.js.map": "/static/js/488.eb024433.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7d308a5.css",
-    "static/js/main.cd26aa1b.js"
+    "static/css/main.63892cb9.css",
+    "static/js/main.07dbfd78.js"
   ]
 }
