@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.63892cb9.css",
-    "main.js": "/static/js/main.07dbfd78.js",
+    "main.css": "/static/css/main.a162056d.css",
+    "main.js": "/static/js/main.fc6ab05d.js",
     "static/js/488.eb024433.chunk.js": "/static/js/488.eb024433.chunk.js",
     "static/media/IMG_7641.JPG": "/static/media/IMG_7641.6de79e4e5e646ac31e25.JPG",
     "static/media/IMG_7628.JPG": "/static/media/IMG_7628.cea78fc3d9a3f1b90e54.JPG",
@@ -9,15 +9,20 @@
     "static/media/IMG_7623(1).JPG": "/static/media/IMG_7623(1).a0e15a1c0048a87ee56c.JPG",
     "static/media/IMG_7692(1).JPG": "/static/media/IMG_7692(1).707eb7300170ff956f6d.JPG",
     "static/media/vaquero.png": "/static/media/vaquero.15101a5667b8b59fb858.png",
+    "static/media/wallpaper4.png": "/static/media/wallpaper4.15101a5667b8b59fb858.png",
     "static/media/Copy of IMG_0232.jpg": "/static/media/Copy of IMG_0232.c62fffac982aececfcb8.jpg",
     "static/media/merch2.png": "/static/media/merch2.426c5a37f8e151aac5ca.png",
-    "static/media/wallpaper1.png": "/static/media/wallpaper1.edb3fda4fbaa66c1bdfa.png",
+    "static/media/Modern black & purple professional game audio company promo instagram post (portrait).png": "/static/media/Modern black & purple professional game audio company promo instagram post (portrait).1cffd553bd2e2978afdb.png",
     "static/media/IMG_1067(1).jpg": "/static/media/IMG_1067(1).114f4d99fda7c62d0d42.jpg",
-    "static/media/wallpaper2.png": "/static/media/wallpaper2.1b5a20af1d27a802e9b5.png",
+    "static/media/wallpaper2.png": "/static/media/wallpaper2.92621bc1a4092c831f58.png",
     "static/media/Copy of IMG_0247.JPG": "/static/media/Copy of IMG_0247.3adde94a48189556d4c1.JPG",
     "static/media/merch1.png": "/static/media/merch1.2b6f7c5877ba7280fbbf.png",
-    "static/media/wallpaper3.png": "/static/media/wallpaper3.183bfd00c2b1d373f4bd.png",
+    "static/media/wallpaperpc2.png": "/static/media/wallpaperpc2.cc7e38ffdc751db6aa1f.png",
+    "static/media/wallpaper1.png": "/static/media/wallpaper1.0e60988968c697c5e1b0.png",
+    "static/media/wallpaperpc1.png": "/static/media/wallpaperpc1.49d836eaabe6d4e99ace.png",
     "static/media/IMG_0285(1).JPG": "/static/media/IMG_0285(1).bb1cbc3ea6a6353ae85d.JPG",
+    "static/media/wallpaper3.png": "/static/media/wallpaper3.8ca2e0d266f959f1b069.png",
+    "static/media/wallpaper0.png": "/static/media/wallpaper0.579a9e8f5a8a69ddee0e.png",
     "static/media/event_python.jpg": "/static/media/event_python.d9c8c7311e67054506b3.jpg",
     "static/media/IMG_3060(2).JPG": "/static/media/IMG_3060(2).39e57c067876d2c3006c.JPG",
     "static/media/IMG_3169.JPG": "/static/media/IMG_3169.691357098409ae3549fb.JPG",
@@ -33,12 +38,12 @@
     "static/media/datacamp.png": "/static/media/datacamp.0e01122e40bf32ed214b.png",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
-    "main.63892cb9.css.map": "/static/css/main.63892cb9.css.map",
-    "main.07dbfd78.js.map": "/static/js/main.07dbfd78.js.map",
+    "main.a162056d.css.map": "/static/css/main.a162056d.css.map",
+    "main.fc6ab05d.js.map": "/static/js/main.fc6ab05d.js.map",
     "488.eb024433.chunk.js.map": "/static/js/488.eb024433.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63892cb9.css",
-    "static/js/main.07dbfd78.js"
+    "static/css/main.a162056d.css",
+    "static/js/main.fc6ab05d.js"
   ]
 }
